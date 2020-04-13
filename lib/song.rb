@@ -12,3 +12,7 @@ class Song
     @count +=1
     @@artists << artist
     @@genre << genre
+  end
+  
+  def
+  
