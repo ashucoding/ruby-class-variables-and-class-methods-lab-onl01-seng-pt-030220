@@ -22,5 +22,5 @@ class Song
     @artist
   end
   
-  
+  def 
   
