@@ -26,5 +26,6 @@ class Song
     @genre.uniq
   end
   
-  def 
+  def artist.count
+    
   
