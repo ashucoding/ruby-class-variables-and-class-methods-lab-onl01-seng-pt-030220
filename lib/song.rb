@@ -22,5 +22,9 @@ class Song
     @artist.uniq
   end
   
+  def self.genre
+    @genre.uniq
+  end
+  
   def 
   
