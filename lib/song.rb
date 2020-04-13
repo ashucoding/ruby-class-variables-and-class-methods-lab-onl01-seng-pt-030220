@@ -18,5 +18,9 @@ class Song
     @count
   end
   
+  def self.artist
+    @artist
+  end
+  
   def self.
   
