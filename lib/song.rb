@@ -27,5 +27,5 @@ class Song
   end
   
   def artist.count
-    
+    artist.count = Hash.new(0)
   
